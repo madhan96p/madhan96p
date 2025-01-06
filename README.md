@@ -5,10 +5,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praga1482) 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/:user">
-
-
   <br><br>
+
+# 💻 Tech Stack:
+<a href='https://www.bing.com/search?q=python&cvid=0b75638946404f448515acf24c66d3ed&gs_lcrp=EgRlZGdlKgYIABAAGEAyBggAEAAYQDIGCAEQRRhBMgYIAhAuGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQRRg8MgYICBBFGDzSAQg3NjQzajBqNKgCCLACAQ&FORM=ANAB01&PC=W192'> ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) <a href='https://www.bing.com/search?q=aws&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIGCAEQRRg5MgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAjGCcyBggGEEUYQTIGCAcQRRg8MgYICBBFGDzSAQgxNDQ0ajBqOagCALACAA&FORM=ANAB01&PC=W192'>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
 
 # 📊 GitHub Stats:
 
