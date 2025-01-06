@@ -5,6 +5,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praga1482) 
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/:user">
+
+
   <br><br>
 
 # 📊 GitHub Stats:
