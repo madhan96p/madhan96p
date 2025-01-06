@@ -13,6 +13,7 @@
 </div>
 
 <br>
+
 <h1>🚀 GitHub Contributions:</h1>
 
-[![Pragadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhan96p&custom_title=Pragadeesh's%20contribution&radius=15&height=490&theme=github-compact&area-color=true&area=true&days=46&hide_border=false)](https://github.com/madhan96p)
+[![Pragadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhan96p&custom_title=Pragadeesh's%20contribution&radius=15&height=490&theme=github-compact&area-color=true&area=true&days=46&hide_border=false)](https://github.com/madhan96p?tab=repositories)
