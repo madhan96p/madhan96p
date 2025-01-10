@@ -2,6 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&weight=500&size=23&pause=1000&color=1FA8FF&center=true&vCenter=true&width=435&lines=Hey+There!!%F0%9F%91%8B;I'm+Pragadeesh%F0%9F%98%8E" alt="Typing SVG" /></a>
 </h1>
 
+## ✨ Explore More:
+I'm always learning and open to new opportunities. Check out my [Portfolio](https://github.com/madhan96p/Portfolio) to learn more about my journey, projects, and aspirations. Let's connect and build something amazing together!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praga1482) 
 <br>
