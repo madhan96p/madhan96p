@@ -3,7 +3,7 @@
 </h1>
 
 ## ✨ Explore More:
-I'm always learning and open to new opportunities. Check out my [Portfolio](https://github.com/madhan96p/Portfolio) to learn more about my journey, projects, and aspirations. Let's connect and build something amazing together!
+I'm always learning and open to new opportunities. Check out my **[Portfolio](https://github.com/madhan96p/Portfolio)** to learn more about my journey, projects, and aspirations. Let's connect and build something amazing together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praga1482) 
