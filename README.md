@@ -9,11 +9,7 @@
 - 🌱 **Currently Learning**: Data Structures and Algorithms (DSA)  
 - 👯 **Looking to Collaborate On**: Interesting **Projects**  
 - 🌟 **Explore More**: Always open to learning and new opportunities! Check out my **[Portfolio](https://github.com/madhan96p/Portfolio)** to see my journey, projects, and aspirations.  
-- 📫 **How to Reach Me**:  
-  <a href="mailto:pragadeesh.s96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" />
-  </a><a href="https://www.linkedin.com/in/praga1482/">
-    <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" />
+- 📫 **How to Reach Me**: <a href="mailto:pragadeesh.s96@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a><a href="https://www.linkedin.com/in/praga1482/"> <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" />
   </a>
 
 ---
