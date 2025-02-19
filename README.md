@@ -11,7 +11,8 @@
 - 📊 **Passionate About:** Data Science, AI, Stock Market Analysis & Predictive Modeling  
 - 🌱 **Currently Learning:** Data Structures & Algorithms (DSA)  
 - 💡 **Open to:** Collaborations on AI/ML, Web Scraping & Finance Analytics Projects  
-- 🏆 **Check out my work:** [Portfolio](https://github.com/madhan96p/Portfolio)  
+- 🏆 **Check out my work:** [Portfolio](https://github.com/madhan96p/Portfolio)
+- 📄 **View My Resume:** [Resume](https://github.com/madhan96p/Portfolio/blob/main/Resume.pdf)  
 - 📫 **Connect with me:**  
   <a href="mailto:pragadeesh.s96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a>
   <a href="https://www.linkedin.com/in/praga1482/"> <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" /></a>
