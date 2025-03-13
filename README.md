@@ -4,10 +4,9 @@
   </a>
 </h1>
 <h4 align="center">🔍 Passionate about Data Science, AI & Stock Market Analysis 📊</h4>
-
+  <h5 align="center"> <em>Data Analyst | Aspiring Data Scientist</em> </h5>
 
 ### 🌟 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Wave Gif" />
-- 🔥 **Data Analyst | Aspiring Data Scientist**  
 - 📊 **Passionate About:** Data Science, AI, Stock Market Analysis & Predictive Modeling  
 - 🌱 **Currently Learning:** Data Structures & Algorithms (DSA)  
 - 💡 **Open to:** Collaborations on AI/ML, Web Scraping & Finance Analytics Projects  
