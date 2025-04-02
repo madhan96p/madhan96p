@@ -3,17 +3,22 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&weight=500&size=23&pause=1000&color=1FA8FF&center=true&vCenter=true&width=435&lines=Hello+World!+🌍;I'm+Pragadeesh+Srinivasan+🚀;Data+Analyst+|+Aspiring+Data+Scientist" alt="Typing SVG" />
   </a>
 </h1>
-<h4 align="center">🔍 Passionate about Data Science, AI & Stock Market Analysis 📊</h4>
-  <h5 align="center"> <em>Data Analyst | Aspiring Data Scientist</em> </h5>
-
+<h4 align="center">🔍 Passionate about Data Science, AI & Stock Market Analysis 📊 </h4>
+  <h5 align="center"> <em>Data Analyst | Aspiring Data Scientist</em></h5>
+ <h5 align="center"> <a href="https://github.com/madhan96p">
+      <img src="https://komarev.com/ghpvc/?username=madhan96p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+ </h5>
+  
 ### 🌟 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Wave Gif" />
+
 - 📊 **Passionate About:** Data Science, AI, Stock Market Analysis & Predictive Modeling  
 - 🌱 **Currently Learning:** Data Structures & Algorithms (DSA)  
 - 💡 **Open to:** Collaborations on AI/ML, Web Scraping & Finance Analytics Projects  
 - 🏆 **Check out my work:** [Portfolio](https://github.com/madhan96p/Portfolio)
 - 📄 **View My Resume:** [Resume](https://github.com/madhan96p/Portfolio/blob/main/Resume.pdf)  
-- 📫 **Connect with me:**  
-  <a href="mailto:pragadeesh.s96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a>
+- 📫 **Connect with me:**
+-  <a href="mailto:pragadeesh.s96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=violet&color=black" /></a>
   <a href="https://www.linkedin.com/in/praga1482/"> <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet&color=black" /></a>
 
 
