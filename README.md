@@ -49,8 +49,6 @@ A booking website for a mehendi artist in Tiruchirappalli — clean UI, responsi
 
 ---
 
-
-
 ## 💻 Tech Stack & Tools
 
 - **Programming:** ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=microsoft-sql-server&logoColor=white)  
