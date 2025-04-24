@@ -3,13 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&weight=500&size=23&pause=1000&color=1FA8FF&center=true&vCenter=true&width=435&lines=Hello+World!+🌍;I'm+Pragadeesh+Srinivasan+🚀;Data+Analyst+|+Aspiring+Data+Scientist" alt="Typing SVG" />
   </a>
 </h1>
+
 <h4 align="center">🔍 Passionate about Data Science, AI & Stock Market Analysis 📊 </h4>
-<h5 align="center"><em>Data Analyst | Aspiring Data Scientist</em></h5>
+<h6 align="center">Data Analyst | Aspiring Data Scientist</h6>
+
 <h5 align="center">
   <a href="https://github.com/madhan96p">
     <img src="https://komarev.com/ghpvc/?username=madhan96p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </h5>
+
 
 ---
 
@@ -20,7 +23,7 @@
 - 💡 **Open to:** Collaborations on AI/ML, Web Scraping & Finance Analytics Projects  
 - 💼 **Freelance Style Builds:** Recently developed 2 fully responsive websites for local businesses  
 - 🏆 **Check out my work:** [Portfolio](https://github.com/madhan96p/Portfolio)  
-- 📄 **View My Resume:** [Resume](https://github.com/madhan96p/Portfolio/blob/main/Resume.pdf)
+- 📄 [![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/madhan96p/Portfolio/blob/main/Resume.pdf)
 
 📬 **Connect With Me:**
 
@@ -37,6 +40,8 @@
 
 ### 🚖 ShRish Travels  
 A cab booking site for a local travel operator in Chennai — dynamic vehicle listings, WhatsApp booking, and basic user tracking enabled.  
+➡️ Helped increase booking conversions by streamlining inquiry flow.  
+ 
 🔗 Live: https://shrishtravels.netlify.app  
 📁 Code: https://github.com/madhan96p/shrish-travels
 
@@ -44,6 +49,7 @@ A cab booking site for a local travel operator in Chennai — dynamic vehicle li
 
 ### 🌿 Henna by Swetha  
 A booking website for a mehendi artist in Tiruchirappalli — clean UI, responsive design, Google Sheets + WhatsApp integration.  
+
 🔗 Live: https://hennabyswetha.netlify.app  
 📁 Code: https://github.com/madhan96p/mehendi-booking-site
 
@@ -57,6 +63,27 @@ A booking website for a mehendi artist in Tiruchirappalli — clean UI, responsi
 - **Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)  
 
 ---
+
+## 📌 Highlights
+
+- 🔍 Built a real-time bus booking price tracker using Selenium + Streamlit  
+- 📈 Created a FAANG stock dashboard with live data visualization  
+- 🧠 Published a complete ML pipeline for e-commerce conversion prediction  
+
+---
+
+## 📜 Certifications
+
+| 📚 Course | 🎓 Platform | 🔗 Certificate |
+|----------|-------------|----------------|
+| 🧠 Master Data Science | GUVI | [Verify](https://www.guvi.in/verify-certificate?id=0KEg21M05u64v7ks53) |
+| 🐍 Python Programming | GUVI | [Verify](https://www.guvi.in/verify-certificate?id=uMNY1D78x70469625T) |
+| 💾 MySQL | GUVI | [Verify](https://www.guvi.in/verify-certificate?id=470o42v8N85aC7O11e) |
+
+---
+
+> *"Turning data into insights, and ideas into solutions."*  
+> — Pragadeesh S
 
 ## 📊 GitHub Stats
 
@@ -74,3 +101,5 @@ A booking website for a mehendi artist in Tiruchirappalli — clean UI, responsi
 [![Pragadeesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhan96p&custom_title=Pragadeesh's%20contribution&radius=15&height=490&theme=github-compact&area-color=true&area=true&days=46&hide_border=false)](https://github.com/madhan96p)
 
 ---
+
+
