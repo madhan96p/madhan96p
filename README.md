@@ -22,7 +22,7 @@
 - 🌱 **Currently Learning:** Data Structures & Algorithms (DSA)  
 - 💡 **Open to:** Collaborations on AI/ML, Web Scraping & Finance Analytics Projects  
 - 💼 **Freelance Style Builds:** Recently developed 2 fully responsive websites for local businesses  
-- 🏆 **Check out my work:** [Portfolio](https://github.com/madhan96p/Portfolio)  
+- 🏆 **Check out my work:** [Portfolio](https://pragadeeshfolio.netlify.app) 
 - 📄 [![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/madhan96p/Portfolio/blob/main/Resume.pdf)
 
 📬 **Connect With Me:**
