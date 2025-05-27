@@ -42,16 +42,16 @@
 A cab booking site for a local travel operator in Chennai — dynamic vehicle listings, WhatsApp booking, and basic user tracking enabled.  
 ➡️ Helped increase booking conversions by streamlining inquiry flow.  
  
-🔗 Live: https://shrishtravels.netlify.app  
-📁 Code: https://github.com/madhan96p/shrish-travels
+🔗 Live: shrishtravels.netlify.app  
+📁 Code: github.com/madhan96p/shrish-travels
 
 ---
 
 ### 🌿 Henna by Swetha  
 A booking website for a mehendi artist in Tiruchirappalli — clean UI, responsive design, Google Sheets + WhatsApp integration.  
 
-🔗 Live: https://hennabyswetha.netlify.app  
-📁 Code: https://github.com/madhan96p/mehendi-booking-site
+🔗 Live: hennabyswetha.netlify.app  
+📁 Code: github.com/madhan96p/mehendi-booking-site
 
 ---
 
