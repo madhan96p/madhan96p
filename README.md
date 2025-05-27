@@ -39,19 +39,24 @@
 ## 🚀 Recent Projects (2025)
 
 ### 🚖 ShRish Travels  
-A cab booking site for a local travel operator in Chennai — dynamic vehicle listings, WhatsApp booking, and basic user tracking enabled.  
-➡️ Helped increase booking conversions by streamlining inquiry flow.  
+A cab booking platform for a local travel operator in Chennai — dynamic vehicle listings, WhatsApp-based booking, and basic user tracking enabled.  
+🛠️ Role: Full-Stack Developer  
+🧰 Tech Stack: HTML, CSS, JavaScript, Google Apps Script, Netlify  
+➡️ Helped increase booking conversions by ~40% through streamlined inquiry-to-booking flow.  
 
-🔗 [Live](https://shrishtravels.netlify.app)  
-📁 [Code](https://github.com/madhan96p/shrish-travels)
+🔗 [Live Site](https://shrishtravels.netlify.app)  
+📁 [Source Code](https://github.com/madhan96p/shrish-travels)
 
 ---
 
 ### 🌿 Henna by Swetha  
-A booking website for a mehendi artist in Tiruchirappalli — clean UI, responsive design, Google Sheets + WhatsApp integration.  
+A responsive booking site for a mehendi artist in Tiruchirappalli — clean UI, integrated with Google Sheets and WhatsApp for seamless inquiries.  
+🛠️ Role: Web Developer  
+🧰 Tech Stack: HTML, Tailwind CSS, JavaScript, Google Apps Script  
+➡️ Enabled direct client communication and eliminated manual follow-ups.  
 
-🔗 [Live](https://hennabyswetha.netlify.app)  
-📁 [Code](https://github.com/madhan96p/mehendi-booking-site)
+🔗 [Live Site](https://hennabyswetha.netlify.app)  
+📁 [Source Code](https://github.com/madhan96p/mehendi-booking-site)
 
 ---
 
