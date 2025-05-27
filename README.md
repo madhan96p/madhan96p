@@ -39,10 +39,10 @@
 ## 🚀 Recent Projects (2025)
 
 ### 🚖 ShRish Travels  
-A cab booking platform for a local travel operator in Chennai — dynamic vehicle listings, WhatsApp-based booking, and basic user tracking enabled.  
-🛠️ Role: Full-Stack Developer  
-🧰 Tech Stack: HTML, CSS, JavaScript, Google Apps Script, Netlify  
-➡️ Helped increase booking conversions by ~40% through streamlined inquiry-to-booking flow.  
+A fully functional cab booking platform for a local travel operator in Chennai — built from scratch as a solo developer. Integrated dynamic vehicle listings, WhatsApp-based booking, automated email alerts, Google Analytics tracking, and Google My Business setup.
+🛠️ Role: Full-Stack Developer (Solo)
+🧰 Stack: HTML, CSS, JavaScript, Google Apps Script, WhatsApp API, Netlify
+📈 Improved inquiry-to-booking conversions by ~40% through automation and tracking.
 
 🔗 [Live Site](https://shrishtravels.netlify.app)  
 📁 [Source Code](https://github.com/madhan96p/shrish-travels)
